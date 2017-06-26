@@ -1,8 +1,8 @@
-V "GNAT Lib v2016"
+V "GNAT Lib v2017"
 A -nostdinc
 A -O2
 A -gnatA
-A --RTS=/home/nock/devel/zfp-nrf51/
+A --RTS=/home/chouteau/src/github/Ada_Drivers_Library_autoprj/examples/MicroBit/zfp-nrf51/
 A -mlittle-endian
 A -mfloat-abi=soft
 A -mcpu=cortex-m0
@@ -33,11 +33,11 @@ W system.text_io%s	s-textio.adb		s-textio.ali
 U ada.text_io%s		a-textio.ads		c034cb2a EE NE OL PK
 W ada%s			ada.ads			ada.ali
 
-D ada.ads		20160629152839 3ffc8e18 ada%s
-D a-textio.ads		20160629152839 ffc84532 ada.text_io%s
-D a-textio.adb		20160629152839 5958ff7e ada.text_io%b
-D system.ads		20160629161519 97e567b6 system%s
-D s-textio.ads		20160629152839 753250f1 system.text_io%s
+D ada.ads		20170626171312 3ffc8e18 ada%s
+D a-textio.ads		20170626171312 ffc84532 ada.text_io%s
+D a-textio.adb		20170626171312 5958ff7e ada.text_io%b
+D system.ads		20170626171312 97e567b6 system%s
+D s-textio.ads		20170626171312 753250f1 system.text_io%s
 X 1 ada.ads
 16K9*Ada 19e8 2|36r9 52r5 3|36r14 98r5
 X 2 a-textio.ads

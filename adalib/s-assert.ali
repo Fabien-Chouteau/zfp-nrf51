@@ -1,8 +1,8 @@
-V "GNAT Lib v2016"
+V "GNAT Lib v2017"
 A -nostdinc
 A -O2
 A -gnatA
-A --RTS=/home/nock/devel/zfp-nrf51/
+A --RTS=/home/chouteau/src/github/Ada_Drivers_Library_autoprj/examples/MicroBit/zfp-nrf51/
 A -mlittle-endian
 A -mfloat-abi=soft
 A -mcpu=cortex-m0
@@ -32,12 +32,12 @@ W system%s		system.ads		system.ali
 U system.assertions%s	s-assert.ads		5a684b22 NE OL PK
 W system%s		system.ads		system.ali
 
-D ada.ads		20160629152839 3ffc8e18 ada%s
-D a-except.ads		20160629152839 5b5f0f2f ada.exceptions%s
-D a-except.adb		20160629152839 0537fae3 ada.exceptions%b
-D system.ads		20160629161519 97e567b6 system%s
-D s-assert.ads		20160629152839 cd8d2c94 system.assertions%s
-D s-assert.adb		20160629152839 b907f0b3 system.assertions%b
+D ada.ads		20170626171312 3ffc8e18 ada%s
+D a-except.ads		20170626171312 5b5f0f2f ada.exceptions%s
+D a-except.adb		20170626171312 0537fae3 ada.exceptions%b
+D system.ads		20170626171312 97e567b6 system%s
+D s-assert.ads		20170626171312 cd8d2c94 system.assertions%s
+D s-assert.adb		20170626171312 b907f0b3 system.assertions%b
 X 4 system.ads
 60K9*System 172e11 5|41r9 50r5 6|34r14 45r5
 X 5 s-assert.ads

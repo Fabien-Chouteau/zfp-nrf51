@@ -1,8 +1,8 @@
-V "GNAT Lib v2016"
+V "GNAT Lib v2017"
 A -nostdinc
 A -O2
 A -gnatA
-A --RTS=/home/nock/devel/zfp-nrf51/
+A --RTS=/home/chouteau/src/github/Ada_Drivers_Library_autoprj/examples/MicroBit/zfp-nrf51/
 A -mlittle-endian
 A -mfloat-abi=soft
 A -mcpu=cortex-m0
@@ -28,10 +28,10 @@ U nrf51.power%s		nrf51-power.ads		69247f7d NE OO PR PK IL
 W nrf51%s		nrf51.ads		nrf51.ali
 W system%s		system.ads		system.ali
 
-D interfac.ads		20160629152839 5ab55268 interfaces%s
-D nrf51.ads		20160630185727 f0252fcf nrf51%s
-D nrf51-power.ads	20160630185727 0ee43704 nrf51.power%s
-D system.ads		20160629161519 97e567b6 system%s
+D interfac.ads		20170626171312 5ab55268 interfaces%s
+D nrf51.ads		20170626171312 f0252fcf nrf51%s
+D nrf51-power.ads	20170626171312 0ee43704 nrf51.power%s
+D system.ads		20170626171312 97e567b6 system%s
 X 1 interfac.ads
 63M9*Unsigned_8
 74M9*Unsigned_32
