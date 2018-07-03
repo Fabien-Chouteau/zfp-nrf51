@@ -1,6 +1,6 @@
 # Obsolete
 
-The nRF51 is now supported in GNAT Community [here](adacore.com/download).
+The nRF51 is now supported in GNAT Community [here](http://adacore.com/download).
 This repository is therefore obsolete.
 
 # Ada Runtime System (RTS; ZFP Profile) for nRF51
